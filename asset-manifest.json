@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gamexo/static/css/main.64c88d49.css",
+    "main.js": "/gamexo/static/js/main.73979167.js",
+    "index.html": "/gamexo/index.html",
+    "main.64c88d49.css.map": "/gamexo/static/css/main.64c88d49.css.map",
+    "main.73979167.js.map": "/gamexo/static/js/main.73979167.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64c88d49.css",
+    "static/js/main.73979167.js"
+  ]
+}
